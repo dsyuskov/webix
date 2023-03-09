@@ -6,7 +6,7 @@
     "picture": "picture.jpg",
     "position": 68,
     "positionDynamics": 4,
-    "sku": 66866668,
+    "sku": "66866668",
     "isFavorite": false,
     "chartSales": [
       114,
@@ -46,7 +46,7 @@
     "group": "Патчи",
     "remains": 790,
     "reviews": 872,
-    "rating": 5,
+    "rating": 5.03,
     "price": 746
   },
   {
@@ -56,7 +56,7 @@
     "picture": "picture.jpg",
     "position": 29,
     "positionDynamics": -7,
-    "sku": 87087124,
+    "sku": "87087124",
     "isFavorite": false,
     "chartSales": [
       119,
@@ -93,10 +93,10 @@
     "product": "veniam elit eiusmod",
     "brand": "nike",
     "merchant": "ozon",
-    "group": "Патчи",
+    "group": "Одежда",
     "remains": 410,
     "reviews": 510,
-    "rating": 2,
+    "rating": 2.03,
     "price": 53
   },
   {
@@ -106,7 +106,7 @@
     "picture": "picture.jpg",
     "position": 64,
     "positionDynamics": -2,
-    "sku": 99593731,
+    "sku": "99593731",
     "isFavorite": false,
     "chartSales": [
       276,
@@ -146,7 +146,7 @@
     "group": "Патчи",
     "remains": 112,
     "reviews": 115,
-    "rating": 3,
+    "rating": 3.03,
     "price": 596
   },
   {
@@ -156,7 +156,7 @@
     "picture": "picture.jpg",
     "position": 76,
     "positionDynamics": 2,
-    "sku": 22884441,
+    "sku": "22884441",
     "isFavorite": false,
     "chartSales": [
       218,
@@ -196,7 +196,7 @@
     "group": "Патчи",
     "remains": 982,
     "reviews": 469,
-    "rating": 9,
+    "rating": 9.03,
     "price": 48
   },
   {
@@ -206,7 +206,7 @@
     "picture": "picture.jpg",
     "position": 75,
     "positionDynamics": 9,
-    "sku": 41219400,
+    "sku": "41219400",
     "isFavorite": false,
     "chartSales": [
       277,
@@ -246,7 +246,7 @@
     "group": "Патчи",
     "remains": 419,
     "reviews": 920,
-    "rating": 6,
+    "rating": 6.03,
     "price": 810
   },
   {
@@ -256,7 +256,7 @@
     "picture": "picture.jpg",
     "position": 13,
     "positionDynamics": 0,
-    "sku": 24614287,
+    "sku": "24614287",
     "isFavorite": false,
     "chartSales": [
       122,
@@ -296,7 +296,7 @@
     "group": "Патчи",
     "remains": 81,
     "reviews": 12,
-    "rating": 9,
+    "rating": 9.03,
     "price": 130
   },
   {
@@ -306,7 +306,7 @@
     "picture": "picture.jpg",
     "position": 92,
     "positionDynamics": 4,
-    "sku": 43978483,
+    "sku": "43978483",
     "isFavorite": false,
     "chartSales": [
       107,
@@ -346,7 +346,7 @@
     "group": "Патчи",
     "remains": 720,
     "reviews": 408,
-    "rating": 3,
+    "rating": 3.03,
     "price": 908
   },
   {
@@ -356,7 +356,7 @@
     "picture": "picture.jpg",
     "position": 59,
     "positionDynamics": 5,
-    "sku": 88111597,
+    "sku": "88111597",
     "isFavorite": false,
     "chartSales": [
       272,
@@ -396,7 +396,7 @@
     "group": "Патчи",
     "remains": 892,
     "reviews": 396,
-    "rating": 6,
+    "rating": 6.03,
     "price": 219
   },
   {
@@ -406,7 +406,7 @@
     "picture": "picture.jpg",
     "position": 68,
     "positionDynamics": 3,
-    "sku": 13861361,
+    "sku": "13861361",
     "isFavorite": false,
     "chartSales": [
       62,
@@ -446,7 +446,7 @@
     "group": "Патчи",
     "remains": 946,
     "reviews": 553,
-    "rating": 6,
+    "rating": 6.03,
     "price": 516
   },
   {
@@ -456,7 +456,7 @@
     "picture": "picture.jpg",
     "position": 31,
     "positionDynamics": -8,
-    "sku": 75829526,
+    "sku": "75829526",
     "isFavorite": false,
     "chartSales": [
       52,
@@ -496,7 +496,7 @@
     "group": "Патчи",
     "remains": 754,
     "reviews": 899,
-    "rating": 8,
+    "rating": 8.03,
     "price": 878
   },
   {
@@ -506,7 +506,7 @@
     "picture": "picture.jpg",
     "position": 33,
     "positionDynamics": -2,
-    "sku": 92137230,
+    "sku": "92137230",
     "isFavorite": false,
     "chartSales": [
       24,
@@ -546,7 +546,7 @@
     "group": "Патчи",
     "remains": 462,
     "reviews": 903,
-    "rating": 4,
+    "rating": 4.03,
     "price": 26
   },
   {
@@ -556,7 +556,7 @@
     "picture": "picture.jpg",
     "position": 41,
     "positionDynamics": 4,
-    "sku": 67053120,
+    "sku": "67053120",
     "isFavorite": false,
     "chartSales": [
       225,
@@ -596,7 +596,7 @@
     "group": "Патчи",
     "remains": 517,
     "reviews": 20,
-    "rating": 5,
+    "rating": 5.03,
     "price": 459
   },
   {
@@ -606,7 +606,7 @@
     "picture": "picture.jpg",
     "position": 49,
     "positionDynamics": -10,
-    "sku": 80257329,
+    "sku": "80257329",
     "isFavorite": false,
     "chartSales": [
       300,
@@ -646,7 +646,7 @@
     "group": "Патчи",
     "remains": 856,
     "reviews": 255,
-    "rating": 6,
+    "rating": 6.03,
     "price": 788
   },
   {
@@ -656,7 +656,7 @@
     "picture": "picture.jpg",
     "position": 29,
     "positionDynamics": 10,
-    "sku": 60951621,
+    "sku": "60951621",
     "isFavorite": false,
     "chartSales": [
       243,
@@ -696,7 +696,7 @@
     "group": "Патчи",
     "remains": 323,
     "reviews": 597,
-    "rating": 10,
+    "rating": 10.03,
     "price": 524
   },
   {
@@ -706,7 +706,7 @@
     "picture": "picture.jpg",
     "position": 51,
     "positionDynamics": 9,
-    "sku": 97887623,
+    "sku": "97887623",
     "isFavorite": false,
     "chartSales": [
       41,
@@ -746,7 +746,7 @@
     "group": "Патчи",
     "remains": 458,
     "reviews": 328,
-    "rating": 9,
+    "rating": 9.03,
     "price": 835
   },
   {
@@ -756,7 +756,7 @@
     "picture": "picture.jpg",
     "position": 55,
     "positionDynamics": 6,
-    "sku": 49948769,
+    "sku": "49948769",
     "isFavorite": false,
     "chartSales": [
       26,
@@ -796,7 +796,7 @@
     "group": "Патчи",
     "remains": 663,
     "reviews": 453,
-    "rating": 6,
+    "rating": 6.03,
     "price": 363
   },
   {
@@ -806,7 +806,7 @@
     "picture": "picture.jpg",
     "position": 46,
     "positionDynamics": -9,
-    "sku": 43623348,
+    "sku": "43623348",
     "isFavorite": false,
     "chartSales": [
       198,
@@ -843,10 +843,10 @@
     "product": "culpa id in",
     "brand": "reebok",
     "merchant": "wb",
-    "group": "Патчи",
+    "group": "Одежда",
     "remains": 723,
     "reviews": 852,
-    "rating": 10,
+    "rating": 10.03,
     "price": 80
   },
   {
@@ -856,7 +856,7 @@
     "picture": "picture.jpg",
     "position": 37,
     "positionDynamics": 5,
-    "sku": 47428423,
+    "sku": "47428423",
     "isFavorite": false,
     "chartSales": [
       209,
@@ -896,7 +896,7 @@
     "group": "Патчи",
     "remains": 94,
     "reviews": 991,
-    "rating": 9,
+    "rating": 9.03,
     "price": 15
   },
   {
@@ -906,7 +906,7 @@
     "picture": "picture.jpg",
     "position": 89,
     "positionDynamics": 1,
-    "sku": 68829457,
+    "sku": "68829457",
     "isFavorite": false,
     "chartSales": [
       22,
@@ -946,7 +946,7 @@
     "group": "Патчи",
     "remains": 887,
     "reviews": 799,
-    "rating": 9,
+    "rating": 9.03,
     "price": 802
   },
   {
@@ -956,7 +956,7 @@
     "picture": "picture.jpg",
     "position": 21,
     "positionDynamics": 5,
-    "sku": 97278001,
+    "sku": "97278001",
     "isFavorite": false,
     "chartSales": [
       55,
@@ -996,7 +996,7 @@
     "group": "Патчи",
     "remains": 843,
     "reviews": 686,
-    "rating": 3,
+    "rating": 3.03,
     "price": 551
   },
   {
@@ -1006,7 +1006,7 @@
     "picture": "picture.jpg",
     "position": 65,
     "positionDynamics": 2,
-    "sku": 30189161,
+    "sku": "30189161",
     "isFavorite": false,
     "chartSales": [
       118,
@@ -1046,7 +1046,7 @@
     "group": "Патчи",
     "remains": 274,
     "reviews": 334,
-    "rating": 5,
+    "rating": 5.03,
     "price": 642
   },
   {
@@ -1056,7 +1056,7 @@
     "picture": "picture.jpg",
     "position": 34,
     "positionDynamics": -1,
-    "sku": 55608386,
+    "sku": "55608386",
     "isFavorite": false,
     "chartSales": [
       159,
@@ -1093,10 +1093,10 @@
     "product": "pariatur pariatur consectetur",
     "brand": "nike",
     "merchant": "wb",
-    "group": "Патчи",
+    "group": "Одежда",
     "remains": 467,
     "reviews": 947,
-    "rating": 0,
+    "rating": 0.13,
     "price": 849
   },
   {
@@ -1106,7 +1106,7 @@
     "picture": "picture.jpg",
     "position": 83,
     "positionDynamics": -7,
-    "sku": 98303407,
+    "sku": "98303407",
     "isFavorite": false,
     "chartSales": [
       190,
@@ -1146,7 +1146,7 @@
     "group": "Патчи",
     "remains": 876,
     "reviews": 614,
-    "rating": 7,
+    "rating": 7.03,
     "price": 548
   },
   {
@@ -1156,7 +1156,7 @@
     "picture": "picture.jpg",
     "position": 86,
     "positionDynamics": 4,
-    "sku": 85607134,
+    "sku": "85607134",
     "isFavorite": false,
     "chartSales": [
       15,
@@ -1193,10 +1193,10 @@
     "product": "non duis exercitation",
     "brand": "nike",
     "merchant": "aliexpress",
-    "group": "Патчи",
+    "group": "Одежда",
     "remains": 938,
     "reviews": 283,
-    "rating": 1,
+    "rating": 1.03,
     "price": 663
   },
   {
@@ -1206,7 +1206,7 @@
     "picture": "picture.jpg",
     "position": 75,
     "positionDynamics": 7,
-    "sku": 19963971,
+    "sku": "19963971",
     "isFavorite": false,
     "chartSales": [
       203,
@@ -1246,7 +1246,7 @@
     "group": "Патчи",
     "remains": 364,
     "reviews": 15,
-    "rating": 3,
+    "rating": 3.03,
     "price": 569
   },
   {
@@ -1256,7 +1256,7 @@
     "picture": "picture.jpg",
     "position": 77,
     "positionDynamics": -1,
-    "sku": 53024936,
+    "sku": "53024936",
     "isFavorite": false,
     "chartSales": [
       225,
@@ -1296,7 +1296,7 @@
     "group": "Патчи",
     "remains": 855,
     "reviews": 114,
-    "rating": 7,
+    "rating": 7.03,
     "price": 620
   },
   {
@@ -1306,7 +1306,7 @@
     "picture": "picture.jpg",
     "position": 25,
     "positionDynamics": 10,
-    "sku": 48761682,
+    "sku": "48761682",
     "isFavorite": false,
     "chartSales": [
       289,
@@ -1346,7 +1346,7 @@
     "group": "Патчи",
     "remains": 685,
     "reviews": 857,
-    "rating": 1,
+    "rating": 1.03,
     "price": 538
   },
   {
@@ -1356,7 +1356,7 @@
     "picture": "picture.jpg",
     "position": 91,
     "positionDynamics": 4,
-    "sku": 55759728,
+    "sku": "55759728",
     "isFavorite": false,
     "chartSales": [
       28,
@@ -1396,7 +1396,7 @@
     "group": "Патчи",
     "remains": 613,
     "reviews": 695,
-    "rating": 10,
+    "rating": 10.03,
     "price": 117
   },
   {
@@ -1406,7 +1406,7 @@
     "picture": "picture.jpg",
     "position": 85,
     "positionDynamics": -2,
-    "sku": 53512176,
+    "sku": "53512176",
     "isFavorite": false,
     "chartSales": [
       14,
@@ -1446,7 +1446,7 @@
     "group": "Патчи",
     "remains": 174,
     "reviews": 345,
-    "rating": 10,
+    "rating": 10.03,
     "price": 139
   },
   {
@@ -1456,7 +1456,7 @@
     "picture": "picture.jpg",
     "position": 86,
     "positionDynamics": -7,
-    "sku": 35210133,
+    "sku": "35210133",
     "isFavorite": false,
     "chartSales": [
       292,
@@ -1496,7 +1496,7 @@
     "group": "Патчи",
     "remains": 698,
     "reviews": 174,
-    "rating": 1,
+    "rating": 1.03,
     "price": 712
   },
   {
@@ -1506,7 +1506,7 @@
     "picture": "picture.jpg",
     "position": 25,
     "positionDynamics": -10,
-    "sku": 97709611,
+    "sku": "97709611",
     "isFavorite": false,
     "chartSales": [
       129,
@@ -1546,7 +1546,7 @@
     "group": "Патчи",
     "remains": 642,
     "reviews": 195,
-    "rating": 8,
+    "rating": 8.03,
     "price": 136
   },
   {
@@ -1556,7 +1556,7 @@
     "picture": "picture.jpg",
     "position": 71,
     "positionDynamics": -4,
-    "sku": 62950061,
+    "sku": "62950061",
     "isFavorite": false,
     "chartSales": [
       280,
@@ -1596,7 +1596,7 @@
     "group": "Патчи",
     "remains": 275,
     "reviews": 825,
-    "rating": 1,
+    "rating": 1.03,
     "price": 899
   },
   {
@@ -1606,7 +1606,7 @@
     "picture": "picture.jpg",
     "position": 96,
     "positionDynamics": -10,
-    "sku": 63343326,
+    "sku": "63343326",
     "isFavorite": false,
     "chartSales": [
       35,
@@ -1646,7 +1646,7 @@
     "group": "Патчи",
     "remains": 490,
     "reviews": 562,
-    "rating": 7,
+    "rating": 7.03,
     "price": 512
   },
   {
@@ -1656,7 +1656,7 @@
     "picture": "picture.jpg",
     "position": 82,
     "positionDynamics": 1,
-    "sku": 68907091,
+    "sku": "68907091",
     "isFavorite": false,
     "chartSales": [
       265,
@@ -1696,7 +1696,7 @@
     "group": "Патчи",
     "remains": 88,
     "reviews": 712,
-    "rating": 6,
+    "rating": 6.03,
     "price": 721
   },
   {
@@ -1706,7 +1706,7 @@
     "picture": "picture.jpg",
     "position": 89,
     "positionDynamics": 7,
-    "sku": 24302548,
+    "sku": "24302548",
     "isFavorite": false,
     "chartSales": [
       15,
@@ -1746,7 +1746,7 @@
     "group": "Патчи",
     "remains": 218,
     "reviews": 19,
-    "rating": 3,
+    "rating": 3.03,
     "price": 493
   },
   {
@@ -1756,7 +1756,7 @@
     "picture": "picture.jpg",
     "position": 76,
     "positionDynamics": 7,
-    "sku": 94535155,
+    "sku": "94535155",
     "isFavorite": false,
     "chartSales": [
       209,
@@ -1796,7 +1796,7 @@
     "group": "Патчи",
     "remains": 994,
     "reviews": 816,
-    "rating": 4,
+    "rating": 4.03,
     "price": 923
   },
   {
@@ -1806,7 +1806,7 @@
     "picture": "picture.jpg",
     "position": 30,
     "positionDynamics": 6,
-    "sku": 58129338,
+    "sku": "58129338",
     "isFavorite": false,
     "chartSales": [
       14,
@@ -1843,10 +1843,10 @@
     "product": "officia consequat qui",
     "brand": "reebok",
     "merchant": "wb",
-    "group": "Патчи",
+    "group": "Одежда",
     "remains": 312,
     "reviews": 313,
-    "rating": 3,
+    "rating": 3.03,
     "price": 663
   },
   {
@@ -1856,7 +1856,7 @@
     "picture": "picture.jpg",
     "position": 57,
     "positionDynamics": 8,
-    "sku": 29958193,
+    "sku": "29958193",
     "isFavorite": false,
     "chartSales": [
       41,
@@ -1896,7 +1896,7 @@
     "group": "Патчи",
     "remains": 421,
     "reviews": 502,
-    "rating": 4,
+    "rating": 4.03,
     "price": 436
   },
   {
@@ -1906,7 +1906,7 @@
     "picture": "picture.jpg",
     "position": 21,
     "positionDynamics": -7,
-    "sku": 47252433,
+    "sku": "47252433",
     "isFavorite": false,
     "chartSales": [
       220,
@@ -1946,7 +1946,7 @@
     "group": "Патчи",
     "remains": 632,
     "reviews": 318,
-    "rating": 10,
+    "rating": 10.03,
     "price": 26
   },
   {
@@ -1956,7 +1956,7 @@
     "picture": "picture.jpg",
     "position": 55,
     "positionDynamics": -8,
-    "sku": 95611781,
+    "sku": "95611781",
     "isFavorite": false,
     "chartSales": [
       31,
@@ -1996,7 +1996,7 @@
     "group": "Патчи",
     "remains": 995,
     "reviews": 614,
-    "rating": 1,
+    "rating": 1.03,
     "price": 212
   },
   {
@@ -2006,7 +2006,7 @@
     "picture": "picture.jpg",
     "position": 62,
     "positionDynamics": -6,
-    "sku": 23403669,
+    "sku": "23403669",
     "isFavorite": false,
     "chartSales": [
       177,
@@ -2046,7 +2046,7 @@
     "group": "Патчи",
     "remains": 88,
     "reviews": 953,
-    "rating": 2,
+    "rating": 2.03,
     "price": 884
   },
   {
@@ -2056,7 +2056,7 @@
     "picture": "picture.jpg",
     "position": 81,
     "positionDynamics": 5,
-    "sku": 64639826,
+    "sku": "64639826",
     "isFavorite": false,
     "chartSales": [
       198,
@@ -2096,7 +2096,7 @@
     "group": "Патчи",
     "remains": 398,
     "reviews": 189,
-    "rating": 6,
+    "rating": 6.03,
     "price": 103
   },
   {
@@ -2106,7 +2106,7 @@
     "picture": "picture.jpg",
     "position": 87,
     "positionDynamics": -4,
-    "sku": 80351846,
+    "sku": "80351846",
     "isFavorite": false,
     "chartSales": [
       21,
@@ -2146,7 +2146,7 @@
     "group": "Патчи",
     "remains": 658,
     "reviews": 994,
-    "rating": 0,
+    "rating": 0.03,
     "price": 171
   },
   {
@@ -2156,7 +2156,7 @@
     "picture": "picture.jpg",
     "position": 84,
     "positionDynamics": -5,
-    "sku": 98103746,
+    "sku": "98103746",
     "isFavorite": false,
     "chartSales": [
       168,
@@ -2196,7 +2196,7 @@
     "group": "Патчи",
     "remains": 19,
     "reviews": 438,
-    "rating": 7,
+    "rating": 7.03,
     "price": 369
   },
   {
@@ -2206,7 +2206,7 @@
     "picture": "picture.jpg",
     "position": 38,
     "positionDynamics": 4,
-    "sku": 42556070,
+    "sku": "42556070",
     "isFavorite": false,
     "chartSales": [
       114,
@@ -2246,7 +2246,7 @@
     "group": "Патчи",
     "remains": 62,
     "reviews": 940,
-    "rating": 5,
+    "rating": 5.03,
     "price": 461
   },
   {
@@ -2256,7 +2256,7 @@
     "picture": "picture.jpg",
     "position": 56,
     "positionDynamics": -2,
-    "sku": 55604563,
+    "sku": "55604563",
     "isFavorite": false,
     "chartSales": [
       70,
@@ -2296,7 +2296,7 @@
     "group": "Патчи",
     "remains": 95,
     "reviews": 114,
-    "rating": 1,
+    "rating": 1.03,
     "price": 410
   },
   {
@@ -2306,7 +2306,7 @@
     "picture": "picture.jpg",
     "position": 74,
     "positionDynamics": -8,
-    "sku": 18537534,
+    "sku": "18537534",
     "isFavorite": false,
     "chartSales": [
       90,
@@ -2346,7 +2346,7 @@
     "group": "Патчи",
     "remains": 240,
     "reviews": 709,
-    "rating": 5,
+    "rating": 5.03,
     "price": 353
   },
   {
@@ -2356,7 +2356,7 @@
     "picture": "picture.jpg",
     "position": 12,
     "positionDynamics": 10,
-    "sku": 68327310,
+    "sku": "68327310",
     "isFavorite": false,
     "chartSales": [
       46,
@@ -2396,7 +2396,7 @@
     "group": "Патчи",
     "remains": 192,
     "reviews": 975,
-    "rating": 9,
+    "rating": 9.03,
     "price": 465
   },
   {
@@ -2406,7 +2406,7 @@
     "picture": "picture.jpg",
     "position": 90,
     "positionDynamics": 4,
-    "sku": 76087665,
+    "sku": "76087665",
     "isFavorite": false,
     "chartSales": [
       239,
@@ -2446,7 +2446,7 @@
     "group": "Патчи",
     "remains": 664,
     "reviews": 285,
-    "rating": 8,
+    "rating": 8.03,
     "price": 733
   },
   {
@@ -2456,7 +2456,7 @@
     "picture": "picture.jpg",
     "position": 55,
     "positionDynamics": -7,
-    "sku": 21701689,
+    "sku": "21701689",
     "isFavorite": false,
     "chartSales": [
       272,
@@ -2496,7 +2496,7 @@
     "group": "Патчи",
     "remains": 512,
     "reviews": 97,
-    "rating": 3,
+    "rating": 3.03,
     "price": 490
   },
   {
@@ -2506,7 +2506,7 @@
     "picture": "picture.jpg",
     "position": 63,
     "positionDynamics": 2,
-    "sku": 75969421,
+    "sku": "75969421",
     "isFavorite": false,
     "chartSales": [
       71,
@@ -2546,7 +2546,7 @@
     "group": "Патчи",
     "remains": 669,
     "reviews": 355,
-    "rating": 10,
+    "rating": 10.03,
     "price": 644
   },
   {
@@ -2556,7 +2556,7 @@
     "picture": "picture.jpg",
     "position": 14,
     "positionDynamics": 3,
-    "sku": 11169750,
+    "sku": "11169750",
     "isFavorite": false,
     "chartSales": [
       30,
@@ -2593,10 +2593,10 @@
     "product": "esse dolor aliqua",
     "brand": "adidas",
     "merchant": "ozon",
-    "group": "Патчи",
+    "group": "Одежда",
     "remains": 269,
     "reviews": 97,
-    "rating": 5,
+    "rating": 5.03,
     "price": 400
   },
   {
@@ -2606,7 +2606,7 @@
     "picture": "picture.jpg",
     "position": 20,
     "positionDynamics": 1,
-    "sku": 62729654,
+    "sku": "62729654",
     "isFavorite": false,
     "chartSales": [
       75,
@@ -2646,7 +2646,7 @@
     "group": "Патчи",
     "remains": 431,
     "reviews": 262,
-    "rating": 9,
+    "rating": 9.03,
     "price": 230
   },
   {
@@ -2656,7 +2656,7 @@
     "picture": "picture.jpg",
     "position": 55,
     "positionDynamics": 5,
-    "sku": 27015612,
+    "sku": "27015612",
     "isFavorite": false,
     "chartSales": [
       70,
@@ -2696,7 +2696,7 @@
     "group": "Патчи",
     "remains": 313,
     "reviews": 720,
-    "rating": 3,
+    "rating": 3.03,
     "price": 883
   },
   {
@@ -2706,7 +2706,7 @@
     "picture": "picture.jpg",
     "position": 32,
     "positionDynamics": 3,
-    "sku": 49045579,
+    "sku": "49045579",
     "isFavorite": false,
     "chartSales": [
       273,
@@ -2746,7 +2746,7 @@
     "group": "Патчи",
     "remains": 121,
     "reviews": 230,
-    "rating": 6,
+    "rating": 6.03,
     "price": 256
   },
   {
@@ -2756,7 +2756,7 @@
     "picture": "picture.jpg",
     "position": 70,
     "positionDynamics": 1,
-    "sku": 56282285,
+    "sku": "56282285",
     "isFavorite": false,
     "chartSales": [
       288,
@@ -2796,7 +2796,7 @@
     "group": "Патчи",
     "remains": 205,
     "reviews": 746,
-    "rating": 9,
+    "rating": 9.03,
     "price": 781
   },
   {
@@ -2806,7 +2806,7 @@
     "picture": "picture.jpg",
     "position": 47,
     "positionDynamics": -6,
-    "sku": 35816820,
+    "sku": "35816820",
     "isFavorite": false,
     "chartSales": [
       195,
@@ -2846,7 +2846,7 @@
     "group": "Патчи",
     "remains": 923,
     "reviews": 875,
-    "rating": 3,
+    "rating": 3.03,
     "price": 59
   },
   {
@@ -2856,7 +2856,7 @@
     "picture": "picture.jpg",
     "position": 41,
     "positionDynamics": -3,
-    "sku": 97390929,
+    "sku": "97390929",
     "isFavorite": false,
     "chartSales": [
       122,
@@ -2896,7 +2896,7 @@
     "group": "Патчи",
     "remains": 163,
     "reviews": 708,
-    "rating": 2,
+    "rating": 2.03,
     "price": 466
   },
   {
@@ -2906,7 +2906,7 @@
     "picture": "picture.jpg",
     "position": 75,
     "positionDynamics": -1,
-    "sku": 27989489,
+    "sku": "27989489",
     "isFavorite": false,
     "chartSales": [
       171,
@@ -2946,7 +2946,7 @@
     "group": "Патчи",
     "remains": 770,
     "reviews": 199,
-    "rating": 6,
+    "rating": 6.03,
     "price": 746
   },
   {
@@ -2956,7 +2956,7 @@
     "picture": "picture.jpg",
     "position": 94,
     "positionDynamics": -3,
-    "sku": 61874482,
+    "sku": "61874482",
     "isFavorite": false,
     "chartSales": [
       176,
@@ -2996,7 +2996,7 @@
     "group": "Патчи",
     "remains": 120,
     "reviews": 152,
-    "rating": 2,
+    "rating": 2.03,
     "price": 353
   },
   {
@@ -3006,7 +3006,7 @@
     "picture": "picture.jpg",
     "position": 81,
     "positionDynamics": 0,
-    "sku": 27431327,
+    "sku": "27431327",
     "isFavorite": false,
     "chartSales": [
       162,
@@ -3046,7 +3046,7 @@
     "group": "Патчи",
     "remains": 981,
     "reviews": 206,
-    "rating": 3,
+    "rating": 3.03,
     "price": 253
   },
   {
@@ -3056,7 +3056,7 @@
     "picture": "picture.jpg",
     "position": 62,
     "positionDynamics": 10,
-    "sku": 28200540,
+    "sku": "28200540",
     "isFavorite": false,
     "chartSales": [
       228,
@@ -3096,7 +3096,7 @@
     "group": "Патчи",
     "remains": 118,
     "reviews": 673,
-    "rating": 7,
+    "rating": 7.03,
     "price": 555
   },
   {
@@ -3106,7 +3106,7 @@
     "picture": "picture.jpg",
     "position": 21,
     "positionDynamics": 0,
-    "sku": 14804060,
+    "sku": "14804060",
     "isFavorite": false,
     "chartSales": [
       51,
@@ -3146,7 +3146,7 @@
     "group": "Патчи",
     "remains": 918,
     "reviews": 188,
-    "rating": 1,
+    "rating": 1.03,
     "price": 596
   },
   {
@@ -3156,7 +3156,7 @@
     "picture": "picture.jpg",
     "position": 31,
     "positionDynamics": 9,
-    "sku": 94896949,
+    "sku": "94896949",
     "isFavorite": false,
     "chartSales": [
       289,
@@ -3196,7 +3196,7 @@
     "group": "Патчи",
     "remains": 448,
     "reviews": 57,
-    "rating": 3,
+    "rating": 3.03,
     "price": 611
   },
   {
@@ -3206,7 +3206,7 @@
     "picture": "picture.jpg",
     "position": 62,
     "positionDynamics": -10,
-    "sku": 74563851,
+    "sku": "74563851",
     "isFavorite": false,
     "chartSales": [
       114,
@@ -3246,7 +3246,7 @@
     "group": "Патчи",
     "remains": 12,
     "reviews": 247,
-    "rating": 6,
+    "rating": 6.03,
     "price": 651
   },
   {
@@ -3256,7 +3256,7 @@
     "picture": "picture.jpg",
     "position": 13,
     "positionDynamics": 8,
-    "sku": 18829595,
+    "sku": "18829595",
     "isFavorite": false,
     "chartSales": [
       25,
@@ -3296,7 +3296,7 @@
     "group": "Патчи",
     "remains": 90,
     "reviews": 84,
-    "rating": 3,
+    "rating": 3.03,
     "price": 493
   },
   {
@@ -3306,7 +3306,7 @@
     "picture": "picture.jpg",
     "position": 79,
     "positionDynamics": 4,
-    "sku": 73859940,
+    "sku": "73859940",
     "isFavorite": false,
     "chartSales": [
       130,
@@ -3346,7 +3346,7 @@
     "group": "Патчи",
     "remains": 753,
     "reviews": 892,
-    "rating": 7,
+    "rating": 7.03,
     "price": 108
   },
   {
@@ -3356,7 +3356,7 @@
     "picture": "picture.jpg",
     "position": 86,
     "positionDynamics": 5,
-    "sku": 48100704,
+    "sku": "48100704",
     "isFavorite": false,
     "chartSales": [
       242,
@@ -3393,10 +3393,10 @@
     "product": "Lorem elit qui",
     "brand": "adidas",
     "merchant": "ozon",
-    "group": "Патчи",
+    "group": "Одежда",
     "remains": 980,
     "reviews": 117,
-    "rating": 0,
+    "rating": 0.03,
     "price": 548
   },
   {
@@ -3406,7 +3406,7 @@
     "picture": "picture.jpg",
     "position": 54,
     "positionDynamics": 2,
-    "sku": 11915547,
+    "sku": "11915547",
     "isFavorite": false,
     "chartSales": [
       44,
@@ -3443,10 +3443,10 @@
     "product": "ut incididunt enim",
     "brand": "adidas",
     "merchant": "ozon",
-    "group": "Патчи",
+    "group": "Одежда",
     "remains": 592,
     "reviews": 77,
-    "rating": 9,
+    "rating": 9.03,
     "price": 358
   },
   {
@@ -3456,7 +3456,7 @@
     "picture": "picture.jpg",
     "position": 37,
     "positionDynamics": 10,
-    "sku": 58584549,
+    "sku": "58584549",
     "isFavorite": false,
     "chartSales": [
       70,
@@ -3496,7 +3496,7 @@
     "group": "Патчи",
     "remains": 462,
     "reviews": 716,
-    "rating": 1,
+    "rating": 1.03,
     "price": 365
   },
   {
@@ -3506,7 +3506,7 @@
     "picture": "picture.jpg",
     "position": 91,
     "positionDynamics": 9,
-    "sku": 27155432,
+    "sku": "27155432",
     "isFavorite": false,
     "chartSales": [
       51,
@@ -3546,7 +3546,7 @@
     "group": "Патчи",
     "remains": 922,
     "reviews": 243,
-    "rating": 2,
+    "rating": 2.03,
     "price": 585
   },
   {
@@ -3556,7 +3556,7 @@
     "picture": "picture.jpg",
     "position": 50,
     "positionDynamics": 9,
-    "sku": 90333558,
+    "sku": "90333558",
     "isFavorite": false,
     "chartSales": [
       14,
@@ -3596,7 +3596,7 @@
     "group": "Патчи",
     "remains": 841,
     "reviews": 840,
-    "rating": 1,
+    "rating": 1.03,
     "price": 43
   },
   {
@@ -3606,7 +3606,7 @@
     "picture": "picture.jpg",
     "position": 47,
     "positionDynamics": 10,
-    "sku": 83197089,
+    "sku": "83197089",
     "isFavorite": false,
     "chartSales": [
       44,
@@ -3646,7 +3646,7 @@
     "group": "Патчи",
     "remains": 388,
     "reviews": 535,
-    "rating": 0,
+    "rating": 0.03,
     "price": 464
   },
   {
@@ -3656,7 +3656,7 @@
     "picture": "picture.jpg",
     "position": 24,
     "positionDynamics": 8,
-    "sku": 32506829,
+    "sku": "32506829",
     "isFavorite": false,
     "chartSales": [
       51,
@@ -3696,7 +3696,7 @@
     "group": "Патчи",
     "remains": 89,
     "reviews": 647,
-    "rating": 9,
+    "rating": 9.03,
     "price": 561
   },
   {
@@ -3706,7 +3706,7 @@
     "picture": "picture.jpg",
     "position": 20,
     "positionDynamics": 9,
-    "sku": 74202871,
+    "sku": "74202871",
     "isFavorite": false,
     "chartSales": [
       282,
@@ -3743,10 +3743,10 @@
     "product": "aute magna sunt",
     "brand": "nike",
     "merchant": "ozon",
-    "group": "Патчи",
+    "group": "Одежда",
     "remains": 70,
     "reviews": 923,
-    "rating": 1,
+    "rating": 1.03,
     "price": 234
   },
   {
@@ -3756,7 +3756,7 @@
     "picture": "picture.jpg",
     "position": 67,
     "positionDynamics": -5,
-    "sku": 72347007,
+    "sku": "72347007",
     "isFavorite": false,
     "chartSales": [
       216,
@@ -3796,7 +3796,7 @@
     "group": "Патчи",
     "remains": 556,
     "reviews": 334,
-    "rating": 5,
+    "rating": 5.03,
     "price": 183
   },
   {
@@ -3806,7 +3806,7 @@
     "picture": "picture.jpg",
     "position": 12,
     "positionDynamics": 8,
-    "sku": 19541269,
+    "sku": "19541269",
     "isFavorite": false,
     "chartSales": [
       18,
@@ -3846,7 +3846,7 @@
     "group": "Патчи",
     "remains": 273,
     "reviews": 217,
-    "rating": 4,
+    "rating": 4.03,
     "price": 805
   },
   {
@@ -3856,7 +3856,7 @@
     "picture": "picture.jpg",
     "position": 42,
     "positionDynamics": 0,
-    "sku": 25510453,
+    "sku": "25510453",
     "isFavorite": false,
     "chartSales": [
       64,
@@ -3896,7 +3896,7 @@
     "group": "Патчи",
     "remains": 942,
     "reviews": 381,
-    "rating": 3,
+    "rating": 3.03,
     "price": 680
   },
   {
@@ -3906,7 +3906,7 @@
     "picture": "picture.jpg",
     "position": 99,
     "positionDynamics": 5,
-    "sku": 78031238,
+    "sku": "78031238",
     "isFavorite": false,
     "chartSales": [
       87,
@@ -3946,7 +3946,7 @@
     "group": "Патчи",
     "remains": 616,
     "reviews": 84,
-    "rating": 8,
+    "rating": 8.03,
     "price": 43
   },
   {
@@ -3956,7 +3956,7 @@
     "picture": "picture.jpg",
     "position": 90,
     "positionDynamics": -2,
-    "sku": 81640443,
+    "sku": "81640443",
     "isFavorite": false,
     "chartSales": [
       98,
@@ -3993,10 +3993,10 @@
     "product": "do velit esse",
     "brand": "nike",
     "merchant": "aliexpress",
-    "group": "Патчи",
+    "group": "Одежда",
     "remains": 603,
     "reviews": 100,
-    "rating": 2,
+    "rating": 2.03,
     "price": 986
   },
   {
@@ -4006,7 +4006,7 @@
     "picture": "picture.jpg",
     "position": 65,
     "positionDynamics": 7,
-    "sku": 15100598,
+    "sku": "15100598",
     "isFavorite": false,
     "chartSales": [
       36,
@@ -4046,7 +4046,7 @@
     "group": "Патчи",
     "remains": 303,
     "reviews": 959,
-    "rating": 2,
+    "rating": 2.03,
     "price": 525
   },
   {
@@ -4056,7 +4056,7 @@
     "picture": "picture.jpg",
     "position": 25,
     "positionDynamics": -9,
-    "sku": 96494961,
+    "sku": "96494961",
     "isFavorite": false,
     "chartSales": [
       112,
@@ -4096,7 +4096,7 @@
     "group": "Патчи",
     "remains": 233,
     "reviews": 565,
-    "rating": 4,
+    "rating": 4.03,
     "price": 148
   },
   {
@@ -4106,7 +4106,7 @@
     "picture": "picture.jpg",
     "position": 23,
     "positionDynamics": -3,
-    "sku": 80886039,
+    "sku": "80886039",
     "isFavorite": false,
     "chartSales": [
       61,
@@ -4146,7 +4146,7 @@
     "group": "Патчи",
     "remains": 629,
     "reviews": 151,
-    "rating": 9,
+    "rating": 9.03,
     "price": 255
   },
   {
@@ -4156,7 +4156,7 @@
     "picture": "picture.jpg",
     "position": 26,
     "positionDynamics": 2,
-    "sku": 27644252,
+    "sku": "27644252",
     "isFavorite": false,
     "chartSales": [
       245,
@@ -4196,7 +4196,7 @@
     "group": "Патчи",
     "remains": 521,
     "reviews": 474,
-    "rating": 0,
+    "rating": 0.03,
     "price": 593
   },
   {
@@ -4206,7 +4206,7 @@
     "picture": "picture.jpg",
     "position": 33,
     "positionDynamics": 9,
-    "sku": 29390531,
+    "sku": "29390531",
     "isFavorite": false,
     "chartSales": [
       216,
@@ -4246,7 +4246,7 @@
     "group": "Патчи",
     "remains": 663,
     "reviews": 631,
-    "rating": 5,
+    "rating": 5.03,
     "price": 531
   },
   {
@@ -4256,7 +4256,7 @@
     "picture": "picture.jpg",
     "position": 13,
     "positionDynamics": -5,
-    "sku": 47526455,
+    "sku": "47526455",
     "isFavorite": false,
     "chartSales": [
       283,
@@ -4296,7 +4296,7 @@
     "group": "Патчи",
     "remains": 926,
     "reviews": 600,
-    "rating": 7,
+    "rating": 7.03,
     "price": 175
   },
   {
@@ -4306,7 +4306,7 @@
     "picture": "picture.jpg",
     "position": 17,
     "positionDynamics": -8,
-    "sku": 38803538,
+    "sku": "38803538",
     "isFavorite": false,
     "chartSales": [
       123,
@@ -4346,7 +4346,7 @@
     "group": "Патчи",
     "remains": 395,
     "reviews": 561,
-    "rating": 3,
+    "rating": 3.03,
     "price": 48
   },
   {
@@ -4356,7 +4356,7 @@
     "picture": "picture.jpg",
     "position": 47,
     "positionDynamics": 3,
-    "sku": 55590561,
+    "sku": "55590561",
     "isFavorite": false,
     "chartSales": [
       274,
@@ -4396,7 +4396,7 @@
     "group": "Патчи",
     "remains": 570,
     "reviews": 227,
-    "rating": 10,
+    "rating": 10.03,
     "price": 982
   },
   {
@@ -4406,7 +4406,7 @@
     "picture": "picture.jpg",
     "position": 43,
     "positionDynamics": 8,
-    "sku": 48267042,
+    "sku": "48267042",
     "isFavorite": false,
     "chartSales": [
       157,
@@ -4446,7 +4446,7 @@
     "group": "Патчи",
     "remains": 64,
     "reviews": 206,
-    "rating": 6,
+    "rating": 6.03,
     "price": 903
   },
   {
@@ -4456,7 +4456,7 @@
     "picture": "picture.jpg",
     "position": 45,
     "positionDynamics": 1,
-    "sku": 24207025,
+    "sku": "24207025",
     "isFavorite": false,
     "chartSales": [
       35,
@@ -4496,7 +4496,7 @@
     "group": "Патчи",
     "remains": 245,
     "reviews": 423,
-    "rating": 7,
+    "rating": 7.03,
     "price": 159
   },
   {
@@ -4506,7 +4506,7 @@
     "picture": "picture.jpg",
     "position": 32,
     "positionDynamics": 0,
-    "sku": 20167045,
+    "sku": "20167045",
     "isFavorite": false,
     "chartSales": [
       79,
@@ -4546,7 +4546,7 @@
     "group": "Патчи",
     "remains": 457,
     "reviews": 632,
-    "rating": 3,
+    "rating": 3.03,
     "price": 40
   },
   {
@@ -4556,7 +4556,7 @@
     "picture": "picture.jpg",
     "position": 24,
     "positionDynamics": -7,
-    "sku": 54066531,
+    "sku": "54066531",
     "isFavorite": false,
     "chartSales": [
       176,
@@ -4596,7 +4596,7 @@
     "group": "Патчи",
     "remains": 111,
     "reviews": 866,
-    "rating": 7,
+    "rating": 7.03,
     "price": 219
   },
   {
@@ -4606,7 +4606,7 @@
     "picture": "picture.jpg",
     "position": 88,
     "positionDynamics": -1,
-    "sku": 56269781,
+    "sku": "56269781",
     "isFavorite": false,
     "chartSales": [
       232,
@@ -4646,7 +4646,7 @@
     "group": "Патчи",
     "remains": 931,
     "reviews": 286,
-    "rating": 5,
+    "rating": 5.03,
     "price": 584
   },
   {
@@ -4656,7 +4656,7 @@
     "picture": "picture.jpg",
     "position": 30,
     "positionDynamics": -4,
-    "sku": 92085397,
+    "sku": "92085397",
     "isFavorite": false,
     "chartSales": [
       30,
@@ -4696,7 +4696,7 @@
     "group": "Патчи",
     "remains": 200,
     "reviews": 131,
-    "rating": 8,
+    "rating": 8.03,
     "price": 449
   },
   {
@@ -4706,7 +4706,7 @@
     "picture": "picture.jpg",
     "position": 60,
     "positionDynamics": -5,
-    "sku": 14616881,
+    "sku": "14616881",
     "isFavorite": false,
     "chartSales": [
       267,
@@ -4746,7 +4746,7 @@
     "group": "Патчи",
     "remains": 252,
     "reviews": 865,
-    "rating": 10,
+    "rating": 10.03,
     "price": 52
   },
   {
@@ -4756,7 +4756,7 @@
     "picture": "picture.jpg",
     "position": 30,
     "positionDynamics": -5,
-    "sku": 22564983,
+    "sku": "22564983",
     "isFavorite": false,
     "chartSales": [
       35,
@@ -4793,10 +4793,10 @@
     "product": "reprehenderit cillum anim",
     "brand": "nike",
     "merchant": "ebay",
-    "group": "Патчи",
+    "group": "Одежда",
     "remains": 544,
     "reviews": 553,
-    "rating": 6,
+    "rating": 6.03,
     "price": 259
   },
   {
@@ -4806,7 +4806,7 @@
     "picture": "picture.jpg",
     "position": 76,
     "positionDynamics": -5,
-    "sku": 19503491,
+    "sku": "19503491",
     "isFavorite": false,
     "chartSales": [
       102,
@@ -4846,7 +4846,7 @@
     "group": "Патчи",
     "remains": 122,
     "reviews": 260,
-    "rating": 7,
+    "rating": 7.03,
     "price": 327
   },
   {
@@ -4856,7 +4856,7 @@
     "picture": "picture.jpg",
     "position": 68,
     "positionDynamics": -10,
-    "sku": 32515748,
+    "sku": "32515748",
     "isFavorite": false,
     "chartSales": [
       187,
@@ -4896,7 +4896,7 @@
     "group": "Патчи",
     "remains": 61,
     "reviews": 303,
-    "rating": 10,
+    "rating": 10.03,
     "price": 147
   },
   {
@@ -4906,7 +4906,7 @@
     "picture": "picture.jpg",
     "position": 37,
     "positionDynamics": 2,
-    "sku": 62248555,
+    "sku": "62248555",
     "isFavorite": false,
     "chartSales": [
       244,
@@ -4946,7 +4946,7 @@
     "group": "Патчи",
     "remains": 661,
     "reviews": 185,
-    "rating": 0,
+    "rating": 0.03,
     "price": 555
   },
   {
@@ -4956,7 +4956,7 @@
     "picture": "picture.jpg",
     "position": 46,
     "positionDynamics": -9,
-    "sku": 20385163,
+    "sku": "20385163",
     "isFavorite": false,
     "chartSales": [
       134,
@@ -4996,7 +4996,7 @@
     "group": "Патчи",
     "remains": 744,
     "reviews": 874,
-    "rating": 7,
+    "rating": 7.03,
     "price": 516
   }
 ]
