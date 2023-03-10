@@ -8,7 +8,7 @@
             <input
               type="checkbox"
               :value="column.id"
-              :checked="isChecked(column)"
+              :checked="!column.hidden"
               @change="(event) => handleChangeCheckBox(event, column)"
             />
             {{ getColumnTitle(column) }}
@@ -23,39 +23,34 @@
 </template>
 
 <script>
-import { defaultState } from "../constants";
+import { DEFAULT_TABLE_SETTINGS, STORAGE_TABLE_SETTINGS } from "../constants";
 /* eslint-disable no-undef */
 export default {
   name: "TableSettings",
 
-  props: {
-    columns: {
-      type: Array,
-      default: () => [],
-    },
-  },
-
   data() {
     return {
+      table: {},
+      columns: [],
       savedState: {},
     };
   },
 
   methods: {
     handleClickDefaultButton() {
-      $$("table").setState(defaultState);
-      webix.storage.local.put("tableSettings", defaultState);
+      this.table.setState(DEFAULT_TABLE_SETTINGS);
+      webix.storage.local.put(STORAGE_TABLE_SETTINGS, DEFAULT_TABLE_SETTINGS);
+      
+      this.$emit('close');
     },
     handleChangeCheckBox(event, column) {
-      const table = $$("table");
-
       if (event.target.checked) {
-        table.showColumn(column.id);
+        this.table.showColumn(column.id);
       } else {
-        table.hideColumn(column.id);
+        this.table.hideColumn(column.id);
       }
 
-      webix.storage.local.put("tableSettings", table.getState());
+      webix.storage.local.put(STORAGE_TABLE_SETTINGS, this.table.getState());
     },
     getColumnTitle(column) {
       if (Array.isArray(column.header)) {
@@ -79,7 +74,10 @@ export default {
   },
 
   mounted() {
-    this.savedState = webix.storage.local.get("tableSettings") || {};
+    this.table = $$("table");
+    this.columns = this.table.getColumns(true);
+
+    this.savedState = webix.storage.local.get(STORAGE_TABLE_SETTINGS) || {};
   },
 };
 </script>

@@ -33,7 +33,7 @@ export default {
 <style lang="scss">
 .header-search {
   &__input {
-    border: 1px solid #eeeeee;
+    border: 1px solid #dddddd;
     border-radius: 5px;
     font-size: 16px;
     padding: 5px;
