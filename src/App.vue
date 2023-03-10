@@ -8,10 +8,22 @@
           <header-search @onchange="applyFilter" />
           <header-favorites @onchange="applyFilter" />
         </div>
-        <button class="header__button">Настройка таблицы</button>
+        <button class="header__button" @click="handleShowSettings">
+          Настройка таблицы
+        </button>
       </div>
     </div>
-    <data-table :config="table" :value="$options.products" class="table" />
+    <data-table
+      id="data-table"
+      :config="table"
+      :value="$options.products"
+      class="table"
+    />
+    <table-settings
+      v-if="isShowSettings"
+      :columns="table.columns"
+      @close="handleShowSettings"
+    />
   </div>
 </template>
 
@@ -21,9 +33,14 @@ import DataTable from "./components/DataTable.vue";
 import LikesIcon from "./components/LikesIcon.js";
 import ImageTooltip from "./components/ImageTooltip";
 import HeaderSearch from "./components/filters/Search.vue";
+import TableSettings from "./components/TableSettings.vue";
 import HeaderFavorites from "./components/filters/Favorites.vue";
 
 import products from "./data/data.json";
+
+const saveConfiguration = () => {
+  webix.storage.local.put("tableSettings", webix.$$("table").getState());
+};
 
 export default {
   name: "App",
@@ -31,6 +48,7 @@ export default {
   components: {
     DataTable,
     HeaderSearch,
+    TableSettings,
     HeaderFavorites,
   },
 
@@ -38,6 +56,7 @@ export default {
 
   data() {
     return {
+      isShowSettings: false,
       table: {
         view: "datatable",
         id: "table",
@@ -109,29 +128,29 @@ export default {
           {
             id: "product",
             sort: "string",
-            header: ["Товар", { content: "textFilter" }],
+            header: [{ text: "Товар" }, { content: "textFilter" }],
+            fillspace:true
           },
           {
             id: "brand",
             sort: "string",
-            header: ["Бренд", { content: "textFilter" }],
+            header: [{ text: "Бренд" }, { content: "textFilter" }],
           },
           {
             id: "merchant",
             sort: "string",
-            header: ["Продавец", { content: "textFilter" }],
+            header: [{ text: "Продавец" }, { content: "textFilter" }],
           },
           {
             id: "group",
             sort: "string",
-            header: ["Группа", { content: "multiComboFilter" }],
+            header: [{ text: "Группа" }, { content: "multiComboFilter" }],
             width: 150,
           },
           {
             id: "remains",
             sort: "int",
-            // header: ["Остаток", { content: "numberFilter" }],
-            header: ["Остаток", { content: "multiSelectFilter" }],
+            header: [{ text: "Остаток" }, { content: "multiSelectFilter" }],
             width: 140,
             css: { "text-align": "center" },
             tooltip: "",
@@ -140,19 +159,33 @@ export default {
           {
             id: "reviews",
             sort: "int",
-            header: ["Отзывы", { content: "numberFilter" }],
+            header: [{ text: "Отзывы" }, { content: "numberFilter" }],
           },
           {
             id: "rating",
             sort: "int",
-            header: ["Рейтинг", { content: "numberFilter" }],
+            header: [{ text: "Рейтинг" }, { content: "numberFilter" }],
           },
           {
             id: "price",
             sort: "int",
-            header: ["Цена", { content: "numberFilter" }],
+            header: [{ text: "Цена" }, { content: "numberFilter" }],
           },
         ],
+        on: {
+          onAfterColumnDropOrder() {
+            saveConfiguration();
+          },
+          onAfterColumnHide() {
+            saveConfiguration();
+          },
+          onAfterColumnShow() {
+            saveConfiguration();
+          },
+          onColumnResize() {
+            saveConfiguration();
+          },
+        },
         onClick: {
           favoriteButton: (e, id) => {
             const item = $$("table").getItem(id);
@@ -174,6 +207,9 @@ export default {
   },
 
   methods: {
+    handleShowSettings() {
+      this.isShowSettings = !this.isShowSettings;
+    },
     getFavorites() {
       const favoriteRaw = localStorage.getItem("favorites");
       return favoriteRaw ? JSON.parse(favoriteRaw) : {};
@@ -228,7 +264,10 @@ export default {
     border: 1px solid #eeeeee;
     border-radius: 5px;
     font-size: 16px;
-    padding: 5px;
+    padding: 5px 10px;
+    padding-left: 30px;
+    background: url('./assets/setting.svg') no-repeat left 10px center;
+    background-size: 16px 16px;
 
     &:hover {
       cursor: pointer;

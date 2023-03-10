@@ -37,6 +37,7 @@ export default {
     this.webixId.registerFilter(
       document.getElementById("searchString"),
       {
+        columnId: "any",
         compare: (cellValue, filterValue, item) => {
           return (
             item.sku.includes(filterValue) ||
@@ -80,6 +81,12 @@ export default {
         },
       }
     );
+
+    const savedState = webix.storage.local.get("tableSettings");
+
+    if (savedState) {
+      this.webixId.setState(savedState);
+    }
   },
 
   destroyed: function () {
