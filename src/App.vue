@@ -13,7 +13,7 @@
         </button>
       </div>
     </div>
-    <data-table id="data-table" :value="$options.products"  />
+    <data-table id="data-table" :value="$options.products" />
     <table-settings v-if="isShowSettings" @close="handleShowSettings" />
   </div>
 </template>
@@ -59,6 +59,7 @@ export default {
 <style lang="scss">
 #app {
   max-width: 1980px;
+  margin: 0 auto;
 }
 
 .header {
@@ -66,7 +67,7 @@ export default {
 
   &__title {
     margin: 0;
-    margin-bottom: 10px;
+    margin-bottom: 16px;
   }
 
   &__filters {

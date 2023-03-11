@@ -1,6 +1,9 @@
 
 <template>
-  <div></div>
+  <div>
+    <div id="webixTable"></div>
+    <div id="webixPagination"></div>
+  </div>
 </template>
 
 <script>
@@ -29,12 +32,14 @@ export default {
       config: {
         id: "table",
         view: "datatable",
-        autowidth: true,
+        container: "webixTable",
+        autowidth: false,
         autoheight: true,
         dragColumn: "order",
         resizeColumn: true,
         pager: {
-          size: 10,
+          container: "webixPagination",
+          size: 20,
           group: 5,
         },
         tooltip: { template: "" },
@@ -79,6 +84,7 @@ export default {
               { text: "Артикул", css: "table__header" },
               { content: "textFilter", css: "table__header" },
             ],
+            width: 100,
             css: { "text-align": "center" },
           },
           {
@@ -90,6 +96,7 @@ export default {
             ],
             css: { "text-align": "center" },
             maxWidth: 60,
+            width: 60,
             template: (item) => LikesIcon(item.isFavorite),
           },
           {
@@ -103,6 +110,7 @@ export default {
             template: webix.Sparklines.getTemplate({
               type: "bar",
             }),
+            width: 200,
             maxWidth: 250,
             minWidth: 200,
           },
@@ -122,7 +130,7 @@ export default {
               { text: "Бренд", css: "table__header" },
               { content: "textFilter", css: "table__header" },
             ],
-            fillspace: true,
+            width: 100,
           },
           {
             id: "merchant",
@@ -131,6 +139,7 @@ export default {
               { text: "Продавец", css: "table__header" },
               { content: "textFilter", css: "table__header" },
             ],
+            width: 100,
           },
           {
             id: "group",
@@ -139,8 +148,8 @@ export default {
               { text: "Группа", css: "table__header" },
               { content: "multiComboFilter", css: "table__header" },
             ],
+            width: 100,
             css: { "text-align": "center" },
-            width: 150,
           },
           {
             id: "remains",
@@ -150,7 +159,7 @@ export default {
               { content: "numberFilter", css: "table__header" },
             ],
             css: { "text-align": "center" },
-            width: 140,
+            width: 100,
             tooltip: "",
             editor: "text",
           },
@@ -161,6 +170,7 @@ export default {
               { text: "Отзывы", css: "table__header" },
               { content: "numberFilter", css: "table__header" },
             ],
+            width: 100,
             css: { "text-align": "center" },
           },
           {
@@ -170,6 +180,7 @@ export default {
               { text: "Рейтинг", css: "table__header" },
               { content: "numberFilter", css: "table__header" },
             ],
+            width: 100,
             css: { "text-align": "center" },
           },
           {
@@ -179,6 +190,7 @@ export default {
               { text: "Цена", css: "table__header" },
               { content: "numberFilter", css: "table__header" },
             ],
+            width: 100,
             css: { "text-align": "center" },
           },
         ],
@@ -251,7 +263,9 @@ export default {
       this.setFavorites(favorites);
     },
     saveConfiguration() {
-      webix.storage.local.put(STORAGE_TABLE_SETTINGS, this.webixId.getState());
+      if (this.webixId) {
+        webix.storage.local.put(STORAGE_TABLE_SETTINGS, this.webixId.getState());
+      }
     },
   },
 
