@@ -13,7 +13,7 @@
         </button>
       </div>
     </div>
-    <data-table id="data-table" :value="$options.products" />
+    <data-table id="data-table" :value="products" />
     <table-settings v-if="isShowSettings" @close="handleShowSettings" />
   </div>
 </template>
@@ -37,10 +37,9 @@ export default {
     HeaderFavorites,
   },
 
-  products,
-
   data() {
     return {
+      products,
       isShowSettings: false,
     };
   },

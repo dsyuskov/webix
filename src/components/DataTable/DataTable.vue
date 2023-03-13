@@ -246,7 +246,12 @@ export default {
     },
     getFavorites() {
       const favoriteRaw = localStorage.getItem("favorites");
-      return favoriteRaw ? JSON.parse(favoriteRaw) : {};
+      try {
+        return favoriteRaw ? JSON.parse(favoriteRaw) : {};
+      } catch (error) {
+        console.error(error);
+        return {};
+      }
     },
     setFavorites(favorites) {
       localStorage.setItem("favorites", JSON.stringify(favorites));
@@ -264,7 +269,10 @@ export default {
     },
     saveConfiguration() {
       if (this.webixId) {
-        webix.storage.local.put(STORAGE_TABLE_SETTINGS, this.webixId.getState());
+        webix.storage.local.put(
+          STORAGE_TABLE_SETTINGS,
+          this.webixId.getState()
+        );
       }
     },
   },
@@ -276,7 +284,7 @@ export default {
     this.webixId = webix.ui(config, this.$el);
 
     if (this.value) {
-      this.dataHandler.call(this, this.value);
+      this.dataHandler(this.value);
     }
 
     this.webixId.registerFilter(
